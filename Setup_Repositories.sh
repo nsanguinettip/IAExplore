@@ -5,5 +5,5 @@ else
 	mkdir ~/Scripts
 fi
 cd ~/Scripts
-git clone https://JaimeRoosbot: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@github.com/nsanguinettip/MillosScripts.git
+git clone https://JaimeRoosbot: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@github.com/nsanguinettip/MillosScripts.git
 cd MillosScripts

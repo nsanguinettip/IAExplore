@@ -12,4 +12,5 @@ cd ~/.tmp
 rm -rf $installation_path/*
 git clone https://JaimeRoosbot:$GIT_KEY@github.com/nsanguinettip/AutoSpam.git
 cp -r AutoSpam $new_version_path 
+mkdir $new_version_path/logs
 rm -rf AutoSpam

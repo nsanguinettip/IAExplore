@@ -10,7 +10,7 @@ else
 fi
 cd ~/.tmp
 rm -rf $installation_path/*
-git clone https://JaimeRoosbot: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@github.com/nsanguinettip/AutoSpam.git
+git clone https://JaimeRoosbot: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@github.com/nsanguinettip/AutoSpam.git
 cp -r AutoSpam $new_version_path 
 rm -rf AutoSpam
 gedit $new_version_path/config.json 

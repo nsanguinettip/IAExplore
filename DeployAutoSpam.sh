@@ -8,10 +8,8 @@ else
 	echo Creating .tmp dir
 	mkdir ~/.tmp
 fi
-
 cd ~/.tmp
 rm -rf $installation_path/*
-
 git clone https://JaimeRoosbot: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@github.com/nsanguinettip/AutoSpam.git
 cp -r AutoSpam $new_version_path 
 rm -rf AutoSpam

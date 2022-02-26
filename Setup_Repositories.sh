@@ -6,5 +6,5 @@ else
 fi
 cd ~/Scripts
 rm -rf MillosScripts
-git clone https://JaimeRoosbot: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@github.com/nsanguinettip/MillosScripts.git
+git clone https://JaimeRoosbot:$GIT_KEY@github.com/nsanguinettip/MillosScripts.git
 cd MillosScripts
